@@ -1,8 +1,6 @@
 
 This webpage displays live AdGuard query logs, providing real-time insights into DNS queries made by clients. With a clean interface, it showcases query details such as client IP, domain, and status. Easily configurable with environment variables, it seamlessly integrates with AdGuard and offers a straightforward visual representation of filtered and rewritten queries.
 
-Not optimised for mobile yet!
-
 Here's a step-by-step tutorial on how to install Apache2, PHP, download your GitHub files, place them in the HTML directory, and set environment variables for Apache. Additionally, it includes modifying the `get_query_log.php` file to use the AdGuard URL.
 
 ### Step 1: Install Apache2 and PHP
